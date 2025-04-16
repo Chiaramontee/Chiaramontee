@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
  
  <div>
 
-   <img align="center" alt="Fred-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
  </div>
  
  ##
