@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
   <a href="https:github.com/Chiaramontee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chiaramontee&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chiaramontee&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
   
  
  <div>
