@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Chiaramontee
 - 👀 Estou interessado em: Evoluir meus conhecimentos
-- 🌱 Atualmente estou aprendendo: C# e SQL Server
+- 🌱 Atualmente estou aprendendo: JavaScript 
 - 💞️ Procuro colaborar em: Aprendizagem e Ensino
 - 📫 Como entrar em contato comigo: gchiaramonte2004@gmail.com
 - 😄 Pronomes: Ele
