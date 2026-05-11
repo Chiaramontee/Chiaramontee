@@ -29,7 +29,7 @@ Busco sempre escrever código limpo, seguir boas práticas e entregar soluções
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,nodejs,figma,css,html,js,express,git,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,nodejs,figma,css,html,js,express,git,react,mysql)](https://skillicons.dev)
 
 
 ---
